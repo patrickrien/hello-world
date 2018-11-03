@@ -1,2 +1,3 @@
 # hello-world
 No idea what I'm doing...
+I am a total novice, but not scurred to try.
